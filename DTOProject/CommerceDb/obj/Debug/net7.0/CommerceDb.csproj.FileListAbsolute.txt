@@ -1,0 +1,42 @@
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\bin\Debug\net7.0\CommerceDb.deps.json
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\bin\Debug\net7.0\CommerceDb.runtimeconfig.json
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\bin\Debug\net7.0\CommerceDb.dll
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\bin\Debug\net7.0\CommerceDb.pdb
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.dll
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\refint\CommerceDb.dll
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.pdb
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\ref\CommerceDb.dll
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\bin\Debug\net7.0\CommerceDb.deps.json
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\bin\Debug\net7.0\CommerceDb.runtimeconfig.json
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\bin\Debug\net7.0\CommerceDb.dll
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\bin\Debug\net7.0\CommerceDb.pdb
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.dll
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\refint\CommerceDb.dll
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.pdb
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\CommerceDb.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\katmanlimimari\KatmanlıMimari\CommerceDb\obj\Debug\net7.0\ref\CommerceDb.dll
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\bin\Debug\net7.0\CommerceDb.deps.json
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\bin\Debug\net7.0\CommerceDb.runtimeconfig.json
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\bin\Debug\net7.0\CommerceDb.dll
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\bin\Debug\net7.0\CommerceDb.pdb
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\CommerceDb.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\CommerceDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\CommerceDb.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\CommerceDb.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\CommerceDb.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\CommerceDb.dll
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\refint\CommerceDb.dll
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\CommerceDb.pdb
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\CommerceDb.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DTO Project\DTOProject\CommerceDb\obj\Debug\net7.0\ref\CommerceDb.dll

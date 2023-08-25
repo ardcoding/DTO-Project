@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccess.Layer",
+    "\\DataAccess.Layer\\Concrete"
+  ],
+  "SelectedNode": "\\DataAccess.Layer\\Concrete\\CustomerRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
